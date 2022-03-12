@@ -1,0 +1,55 @@
+header {
+  font-size: 50px;
+  text-align: center;
+  color: red;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: purple;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: rgb(155, 127, 4);
+  font-family: sans-serif;
+}
+.anchor a {
+  margin-right: 5px;
+  margin-left: 5px;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+.centered img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: sans-serif;
+  height: 450px;
+  width: 350px;
+}
+
+.centered p {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.centered {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.centered li {
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
+  list-style-position: inside;
+}
+
+.about-us {
+  font-size: 20px;
+  font-family: sans-serif;
+}
